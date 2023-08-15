@@ -5,8 +5,9 @@ class Shaeikh {
         this.nationality = "Pakistani";
         this.languages = ["Urdu", "English"];
 
-        this.programingLanguages = ["JavaScript"];
+        this.programingLanguage = "JavaScript";
         this.projects = [""];
+        this.student = true;
 
         this.website = "N/A";
         this.discord = {
