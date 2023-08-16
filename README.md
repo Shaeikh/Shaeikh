@@ -20,7 +20,6 @@ class Shaeikh {
 }
 ```
 
-https://discord-readme-badge.vercel.app/api?id=560493409111113748
 
 <!--
 **Shaeikh/Shaeikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
