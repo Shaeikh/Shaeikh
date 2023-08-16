@@ -19,8 +19,7 @@ class Shaeikh {
     }
 }
 ```
-![My Discord](https://discord-readme-badge.vercel.app/api?id=560493409111113748)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/560493409111113748)](https://discord.com/users/560493409111113748)
 <!--
 **Shaeikh/Shaeikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
