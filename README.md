@@ -5,12 +5,13 @@ class Shaeikh {
         this.nationality = "Pakistani";
         this.languages = ["Urdu", "English"];
 
-        this.programingLanguage = "JavaScript";
+        this.programingLanguage = ["JavaScript", "Python"];
         this.projects = [""];
         this.student = true;
 
         this.website = "N/A";
         this.discord = {
+            displayName: "Shæikh",
             username: "shaeikh",
             server: "discord.gg/shaeikh"
         };
