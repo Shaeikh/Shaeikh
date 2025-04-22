@@ -1,11 +1,11 @@
 ```js
 class Shaeikh {
     constructor() {
-        this.age = 18;
+        this.age = 19;
         this.nationality = "Pakistani";
-        this.languages = ["Urdu", "English"];
+        this.languages = ["English"];
 
-        this.programingLanguage = ["JavaScript", "Python"];
+        this.programingLanguage = ["C++", "JavaScript", "Python"];
         this.projects = [""];
         this.student = true;
 
