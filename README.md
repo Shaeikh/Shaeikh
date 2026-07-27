@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS in Computer Science (4th Semester)<br>Interested in Full-Stack Development, AI, and Open Source<br>Currently learning Data Structures & Algorithms, System Design, and Modern Web Development<br>I enjoy turning ideas into real-world projects<br>Always exploring new technologies and improving my coding skills
+BS in Computer Science (4th Semester)<br>Interested in Full-Stack Development, Game Development, AI, and Open Source<br>Currently learning System Design, and Modern Web Development<br>I enjoy turning ideas into real-world projects<br>Always exploring new technologies and improving my programming skills
 
 
 # 💻 Tech Stack:
