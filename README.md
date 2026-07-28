@@ -10,4 +10,4 @@ BS in Computer Science (4th Semester)<br>Interested in Full-Stack Development, G
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=Shaeikh&layout=donut&langs_count=9&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Shaeikh&layout=donut&langs_count=9&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shaeikh&icon=2&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Shaeikh)
